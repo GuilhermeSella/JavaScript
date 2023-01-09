@@ -1,2 +1,2 @@
 # JavaScript
- JavaScript básico
+ JavaScript básico para iniciantes
